@@ -472,6 +472,11 @@ nav a.active { color: var(--salmon); }
   margin-bottom: 4rem;
 }
 
+.logo a {
+  text-decoration: none;
+  color: var(--salmon);
+}
+
 .contact-cta-btn {
   display: inline-flex;
   align-items: center;
