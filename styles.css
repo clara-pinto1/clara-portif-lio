@@ -1,19 +1,19 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg:         #fdf5f2;
-  --bg2:        #f9ece6;
-  --wave1:      #f2d9cf;
-  --wave2:      #e8c4b8;
-  --salmon:     #d9745a;
-  --salmon-lt:  #e8967e;
-  --dusty:      #9aaba8;
-  --text:       #3d2b26c2;
-  --muted:      #b0887a;
-  --line:       #ead9d3;
-  --white:      #ffffff;
-  --serif:      'Playfair Display', serif;
-  --sans:       'Jost', sans-serif;
+  --bg:        #f5f0e8;   /* bege claro */
+  --bg2:       #ece4d4;   /* bege médio */
+  --wave1:     #d9cdb8;   /* bege wave */
+  --wave2:     #c9bca5;   /* bege wave escuro */
+  --salmon:    #7a3b4a;   /* vinho principal */
+  --salmon-lt: #9a4e60;   /* vinho claro (hover) */
+  --dusty:     #6b7a5c;   /* verde oliva */
+  --text:      #2e2018cc; /* marrom escuro (texto) */
+  --muted:     #6b5a4e;   /* marrom médio (texto secundário) */
+  --line:      #d4c8b8;   /* bege/linha */
+  --white:     #ffffff;
+  --serif:     'Playfair Display', serif;
+  --sans:      'Jost', sans-serif;
 }
 
 html { scroll-behavior: smooth; }
